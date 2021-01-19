@@ -11,7 +11,7 @@ public class Main {
     System.out.println("Katze ist schwarz");
 
     System.out.println("Das ist das Feature B");
-    System.out.println("ABCDE");
+    System.out.println("ABCDEF");
 
 
   }
