@@ -9,5 +9,8 @@ public class Main {
     System.out.println("Hallo");
     System.out.println("Hallo");
     System.out.println("Katze ist schwarz");
+
+    System.out.println("Das ist das Feature B");
+
   }
 }
