@@ -9,8 +9,5 @@ public class Main {
     System.out.println("Hallo");
     System.out.println("Hallo");
     System.out.println("Das ist das Feature B");
-    System.out.println("ABCDEFG");
-    System.out.println("Katze ist schwarzdefg");
-
   }
 }
